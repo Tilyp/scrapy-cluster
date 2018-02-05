@@ -1,0 +1,1 @@
+My configuration string here. Typically YAML or JSON
